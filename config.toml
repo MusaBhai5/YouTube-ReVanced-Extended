@@ -21,14 +21,14 @@ patcher-args = " -e 'MaterialYou' -e 'Return YouTube Username' -e'Custom brandin
 
 [YouTube Extended]
 enabled = true
-app-name = "YouTube"
+app-name = "YouTube X"
 build-mode = "both"#both means packing both apk and module at the same time. To pack only mask module, change both to module
 version = "20.02.38"#Remember to check the patch support version before each package
 rv-brand = "ReVanced Extended"
 #Remember to change these two versions when the patch is updated
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Custom branding name for YouTube'"#Exclusion list
+excluded-patches = ""#Exclusion list
 included-patches = "'Custom header for YouTube'"#Mandatory inclusion list Patches have a default list, some are disabled by default
 arch = "arm64-v8a"
 patcher-args = " -e 'MaterialYou' -e 'Return YouTube Username' -e'Custom branding icon for YouTube' -OappIcon='afn_red'   -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='yt_alt' -OapplyToAll='true' -e 'Custom header for YouTube' -OcustomHeader='custom_branding_icon' -e 'Theme' -OdarkThemeBackgroundColor=#FF111111"
