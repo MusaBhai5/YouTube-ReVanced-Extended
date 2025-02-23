@@ -1,5 +1,5 @@
-YouTube (arm64-v8a): 19.44.39  
-YouTube (arm-v7a): 19.44.39  
+YouTube (arm64-v8a): 20.07.39  
+YouTube (arm-v7a): 20.07.39  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root YouTube and YT Music from Play Store  
 
 Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube and YT Music APKs  
