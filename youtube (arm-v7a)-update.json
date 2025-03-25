@@ -1,6 +1,6 @@
 {
-  "version": "v19.16.39 (26)",
-  "versionCode": 26,
-  "zipUrl": "https://github.com/MusaBhai5/YouTube-ReVanced-Extended/releases/download/26/youtube-revanced-extended-magisk-v19.16.39-arm-v7a.zip",
+  "version": "v19.16.39 (patches: 3.5.0)",
+  "versionCode": 27,
+  "zipUrl": "https://github.com/MusaBhai5/YouTube-ReVanced-Extended/releases/download/27/youtube-revanced-extended-magisk-v19.16.39-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/MusaBhai5/YouTube-ReVanced-Extended/update/build.md"
 }
