@@ -20,7 +20,7 @@ arch = "both"
 patcher-args = " -e 'MaterialYou' -e 'Return YouTube Username' -e'Custom branding icon for YouTube' -OappIcon='mmt' -OchangeSplashIcon='true' -OrestoreOldSplashAnimation='true' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='yt_alt' -OapplyToAll='true' -e 'Custom header for YouTube' -OcustomHeader='custom_branding_icon' -e 'Theme' -OdarkThemeBackgroundColor=@android:color/black -e 'Settings for YouTube' -OrvxSettingsLabel='Revanced Extended'"
 
 [Music-Extended]
-enabled = false
+enabled = true
 app-name = "YT Music"
 patcher-args = "-e 'Custom branding name for YouTube Music' -OappNameNotification='YT Music' -OappNameLauncher='YT Music' -e 'Custom branding icon for YouTube Music' -OappIcon='vanced_black' -OchangeSplashIcon='true' -OrestoreOldSplashAnimation='true' -e 'Custom header for YouTube Music' -OcustomHeader='custom_branding_icon' -e 'Visual preferences icons for YouTube Music' -OsettingsMenuIcon='custom_branding_icon' -e 'Settings for YouTube Music' -OsettingsLabel='YT Premium'"
 version = "auto"
