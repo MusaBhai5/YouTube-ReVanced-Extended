@@ -15,7 +15,7 @@ version = "auto"#Remember to check the patch support version before each package
 rv-brand = "ReVanced Extended"
 #Remember to change these two versions when the patch is updated
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 excluded-patches = "'Custom branding name for YouTube'"#Exclusion list
 included-patches = "'Custom header for YouTube'"#Mandatory inclusion list Patches have a default list, some are disabled by default
